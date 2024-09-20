@@ -13,3 +13,6 @@ def min_rand():
   return 17
 
 print("The smallest random number is", min_rand())
+
+def square(a):
+  return a * a
